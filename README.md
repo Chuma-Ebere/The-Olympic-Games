@@ -1,5 +1,7 @@
 # The-Olympic-Games
 This work was done to analyse the trends in the olympic games. The dataset obtained from Kaggle contains data on all the Games held from Athens 1896 to Rio 2016.
+![olympics 1](https://user-images.githubusercontent.com/87578606/131578678-69b4948f-7511-4141-9827-9e5b70b72b09.jpg)
+
 
 # Olympic Dataset
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
@@ -28,6 +30,7 @@ I made use of the Numpy, Pandas, Seaborn, and Matplotlib Python libraries.
 # Results from analysing the age distribution among the athletes
   * Most of the athletes to have ever taken part in the olympic games were between 20 and 30 years old.
 
+![olympics 3](https://user-images.githubusercontent.com/87578606/131578753-0db1e0db-5590-4915-a21e-750e69e4ec16.png)
 # Results from analysing the summer and winter olympic games
   * A total of 17 games were held during the winter olympics.
   * Over 50 games were organised during the summer olumpics.
@@ -38,6 +41,7 @@ I made use of the Numpy, Pandas, Seaborn, and Matplotlib Python libraries.
   * For both the winter and summer games, the number of females at the games increased yearly. 
   * Year 2016 recorded the most number of female contestants at the games, exceeding 6200 females.
 
+![olympics 2](https://user-images.githubusercontent.com/87578606/131578797-b60c36ff-9701-4965-a143-9a03d4faf657.jpg)
 # The results from analysing the medal winners over time showed the following:
   * The same set of countries have maintained the top 10 spots in medal wins through the year.
   * The United States consitently tops all medal categories, with Russia and Germany taking the next 2 spots.

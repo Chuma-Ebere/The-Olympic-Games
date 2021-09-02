@@ -6,7 +6,8 @@ This work was done to analyse the trends in the olympic games. The dataset obtai
 # Olympic Dataset
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 Some of the rows contained in the dataset include; 'Name',	'Sex',	'Age',	'Height',	'Weight', 'region', 'Year', 'Season', 'Sport', and 'Medal'.
-Data Source: [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
+Data Source: [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+
 You will find that there are two datasets, one I have named 'athlete' and the other 'regions'.
 
 # Learning Points
